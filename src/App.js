@@ -23,7 +23,7 @@ import OrderSuccess from './pages/OrderSuccess';
 import NotFound from './pages/NotFound';
 // Styles
 import './styles/main.css';
-import './styles/additional.css';
+
 
 import ProtectedRoute from './components/common/ProtectedRoute';
 
